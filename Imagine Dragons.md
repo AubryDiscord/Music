@@ -11,4 +11,4 @@
 [Imagine Dragons - On Top Of The World](https://www.youtube.com/watch?v=w5tWYmIOWGk)  
 [Imagine Dragons - Bleeding Out](https://www.youtube.com/watch?v=jNFgynmVmx0) 
    
-[Back To Hub](https://github.com/KingdomOfFigor/Music/blob/master/README.md)
+[Back To README](https://github.com/KingdomOfFigor/Music/blob/master/README.md)
